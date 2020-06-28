@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quadratic_equation", "quadr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitQuadEqua", "UnitQuadEqua\UnitQuadEqua.csproj", "{0EA4F6B8-314D-480E-9898-B4D377D1DF7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsQuadratic_Equation", "WindowsFormsQuadratic_Equation\WindowsFormsQuadratic_Equation.csproj", "{2CAD921F-81BC-47CC-AE3A-828E4D20F0A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0EA4F6B8-314D-480E-9898-B4D377D1DF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EA4F6B8-314D-480E-9898-B4D377D1DF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EA4F6B8-314D-480E-9898-B4D377D1DF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAD921F-81BC-47CC-AE3A-828E4D20F0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAD921F-81BC-47CC-AE3A-828E4D20F0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAD921F-81BC-47CC-AE3A-828E4D20F0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAD921F-81BC-47CC-AE3A-828E4D20F0A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
